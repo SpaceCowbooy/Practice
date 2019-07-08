@@ -88,7 +88,6 @@ while (1){
                             }
                         }
                         }
-                //reg->CloseKey();
                 break;
                 }
                 if (strcmp(strlwr(tmp), "new") == 0){
